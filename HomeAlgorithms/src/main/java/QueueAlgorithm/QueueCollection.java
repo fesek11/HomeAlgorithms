@@ -1,20 +1,13 @@
-package Book;
+package QueueAlgorithm;
 
 import java.util.Iterator;
 
-public class QueueCollection {
-
-    public static void main(String[] args) {
-
-    }
-}
 
 class Queue<Item> implements Iterable<Item> {
     private Node first;
     private Node last;
     private int N;
 
-    @Override
     public Iterator<Item> iterator() {
         return null;
     }

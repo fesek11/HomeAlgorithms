@@ -1,4 +1,4 @@
-package Book;
+package QueueAlgorithm;
 
 import java.util.Iterator;
 
@@ -43,7 +43,6 @@ class ResizingArrayStack<Item> implements Iterable<Item> {
 
 
 
-    @Override
     public Iterator<Item> iterator() {
         return new ReversArrayIterator();
     }
@@ -52,14 +51,17 @@ class ResizingArrayStack<Item> implements Iterable<Item> {
 
         private int i = N;
 
-        @Override
+
         public boolean hasNext() {
             return i > 0;
         }
 
-        @Override
+
         public Item next() {
             return a[i--];
+        }
+
+        public void remove() {
         }
     }
 }
