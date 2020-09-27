@@ -2,7 +2,6 @@ package QueueAlgorithm;
 
 import java.util.Iterator;
 
-
 class Queue<Item> implements Iterable<Item> {
     private Node first;
     private Node last;
