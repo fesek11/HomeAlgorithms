@@ -47,5 +47,4 @@ class Queue<Item> implements Iterable<Item> {
         return item;
     }
 
-
 }
