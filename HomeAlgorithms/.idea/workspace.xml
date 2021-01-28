@@ -50,8 +50,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Downloads/stdlib.jar" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21839081" />
   </component>
@@ -113,12 +114,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TraceShell" />
-      <item itemvalue="Application.ShellBars" />
-      <item itemvalue="Application.TraceInsertion" />
-      <item itemvalue="Application.SelectionTrace" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.SelectionTrace" />
+      <item itemvalue="Application.ShellBars" />
+      <item itemvalue="Application.TraceInsertion" />
+      <item itemvalue="Application.TraceShell" />
     </list>
     <recent_temporary>
       <list>
@@ -170,6 +171,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="790" y="235" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602066566839" />
+    <state x="640" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603450778956">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603450778956" />
     <state x="743" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601804116120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -186,10 +191,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="715" y="227" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1602237058796" />
-    <state x="672" y="215" key="FileChooserDialogImpl" timestamp="1602067635465">
+    <state x="672" y="215" key="FileChooserDialogImpl" timestamp="1603451061800">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="672" y="215" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602067635465" />
+    <state x="672" y="215" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603451061800" />
     <state width="1860" height="352" key="GridCell.Tab.0.bottom" timestamp="1602261924107">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -226,18 +231,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600620672270" />
-    <state x="440" y="99" key="SettingsEditor" timestamp="1602067648841">
+    <state x="440" y="99" key="SettingsEditor" timestamp="1603450941002">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602067648841" />
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603450941002" />
     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602231738636">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602231738636" />
-    <state x="597" y="185" key="new project wizard" timestamp="1600621935400">
+    <state x="597" y="185" key="new project wizard" timestamp="1603450938332">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="597" y="185" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1600621935400" />
+    <state x="597" y="185" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1603450938332" />
     <state x="616" y="243" key="run.anything.popup" timestamp="1601808092931">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -630,156 +635,6 @@
           <line>41</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="105" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>116</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>115</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>114</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>113</line>
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>112</line>
-          <option name="timeStamp" value="112" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="122" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>67</line>
-          <option name="timeStamp" value="123" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>73</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>75</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>76</line>
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ElementarySorting.java</url>
           <line>4</line>
@@ -787,62 +642,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>111</line>
-          <properties class="MergeSort" method="sort">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="113" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/MergeSort.java</url>
-          <line>30</line>
-          <properties class="MergeSort" method="sort">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>9</line>
-          <properties class="QuickSort" method="sort">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>65</line>
-          <properties class="QuickSort" method="select">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>93</line>
-          <properties class="QuickSort" method="exch">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>87</line>
-          <properties class="QuickSort" method="less">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
-          <line>26</line>
-          <properties class="QuickSort" method="partition">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="135" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
