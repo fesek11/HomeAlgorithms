@@ -1,3 +1,4 @@
+
 public class InsertionBars {
     public static void sort(double[] a) {
         int n = a.length;
